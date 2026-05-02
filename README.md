@@ -3,12 +3,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:F953C6,100:FF6B6B&height=200&section=header&text=🧠%20Answerability%20·%20Reliability%20·%20Hallucination&fontSize=28&fontColor=ffffff&fontAlignY=38&desc=Detection%20using%20RAG&descAlignY=58&descSize=18&descColor=ffffff&animation=fadeIn" width="100%"/>
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
 <br/>
 
 ***A production-grade RAG system that knows what it doesn't know.***  
@@ -138,7 +132,6 @@ Five answerability gate policies are compared head-to-head:
 
 | Component | Library / Model |
 |-----------|----------------|
-| 🗄️ **Dataset** | ![NVIDIA](https://img.shields.io/badge/NVIDIA-TechQA--RAG--Eval-76B900?style=flat-square&logo=nvidia&logoColor=white) ![RAGTruth](https://img.shields.io/badge/ParticleMedia-RAGTruth-FF6B6B?style=flat-square) |
 | 🔍 **Sparse Retrieval** | ![BM25](https://img.shields.io/badge/rank__bm25-BM25Okapi-4A90E2?style=flat-square&logo=searchengin&logoColor=white) |
 | 🧲 **Dense Retrieval** | ![SentenceTransformers](https://img.shields.io/badge/sentence--transformers-all--MiniLM--L6--v2-FFD21E?style=flat-square&logo=huggingface&logoColor=black) |
 | 🤖 **Generator** | ![Flan-T5](https://img.shields.io/badge/Google-flan--t5--large-4285F4?style=flat-square&logo=google&logoColor=white) |
