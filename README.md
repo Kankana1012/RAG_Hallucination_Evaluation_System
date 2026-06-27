@@ -223,7 +223,7 @@ Five gating policies were compared on the same 30-question test sample:
 
 <p>
 <img src="Result/Success metrics (Higher is better).jpeg" width="400" alt="Ablation success metrics by policy variant">
-<img src="assets/ablation_risk_metrics.png" width="480" alt="Ablation risk metrics by policy variant">
+<img src="Result/Risk & error metrics (Lower is better) .jpeg" width="480" alt="Ablation risk metrics by policy variant">
 </p>
 
 This is the clearest result in the project: **remove the gate entirely and the system answers every unanswerable question** (100% unsafe rate) **and 9 in 10 generated claims become unsupported.** Every gated variant cuts unsafe answers to 15–40% and unsupported claims to 30–60%, at the cost of accuracy and/or higher abstention. The "aggressive" threshold setting gets the best raw decision accuracy but does so by tolerating a higher unsafe rate — a reminder that *accuracy alone is the wrong metric to optimize* for a system whose worst failure mode is confidently wrong answers.
