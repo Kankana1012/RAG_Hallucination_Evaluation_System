@@ -176,7 +176,7 @@ Mean **BERTScore F1: 0.581** (precision 0.540 / recall 0.645), computed only on 
 
 A useful (and humbling) diagnostic — **gate confidence is only weakly correlated with actual answer quality** (Pearson r = 0.220 between `prob_answerable` and BERTScore F1):
 
-<img src="assets/gate_confidence_vs_quality.png" width="480" alt="Gate confidence vs BERTScore F1 scatter with regression line">
+<img src="Result/System confidence Vs actual generation quality.jpeg" width="480" alt="Gate confidence vs BERTScore F1 scatter with regression line">
 
 This is flagged explicitly in [Limitations](#limitations--future-work): the gate is good at deciding *whether* to answer, but its confidence shouldn't yet be read as a proxy for *how good* the answer will be.
 
