@@ -137,7 +137,7 @@ Hybrid retrieval finds at least one gold document in the top-5 for ~95% of answe
 
 <p>
 <img src="Result/Answer ability classifier confusion matrix.jpeg" width="400" alt="Answerability classifier confusion matrix">
-<img src="assets/answerability_roc_curve.png" width="400" alt="Answerability classifier ROC curve">
+<img src="Result/Answerability Classifier ROC.jpeg" width="400" alt="Answerability classifier ROC curve">
 </p>
 
 ### Calibration
