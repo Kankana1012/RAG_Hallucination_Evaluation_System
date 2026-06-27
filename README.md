@@ -124,7 +124,7 @@ Every generated answer is split into sentences ("claims"). Each claim is embedde
 | Validation | 0.868 |
 | Test | **0.946** |
 
-<img src="assets/retrieval_recall_bars.png" width="480" alt="Retrieval recall at k=5 bar chart">
+<img src="Result/Retrieval recall@5.jpeg" width="480" alt="Retrieval recall at k=5 bar chart">
 
 Hybrid retrieval finds at least one gold document in the top-5 for ~95% of answerable test questions — the bottleneck downstream is *deciding what to do with that evidence*, not finding it.
 
