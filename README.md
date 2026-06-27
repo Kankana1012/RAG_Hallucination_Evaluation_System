@@ -203,7 +203,7 @@ Using FLAN-T5-large itself as a judge (A–E rubric → 1–5 score) across 4 di
 | Hallucination | 0.55 | 0.71 | 0.62 | 431 |
 | **AUROC** | | | **0.812** | |
 
-<img src="assets/ragtruth_label_type_frequency.png" width="520" alt="RAGTruth label type frequency">
+<img src="Result/RAGTruth label-type frequency (top 10).jpeg" width="520" alt="RAGTruth label type frequency">
 
 The risk model trades precision for recall on the minority (hallucination) class — appropriate for a *risk flag* that should err toward over-flagging rather than missing real hallucinations.
 
