@@ -163,7 +163,7 @@ Isotonic calibration tightens the reliability curve (~9% relative ECE improvemen
 
 <p>
 <img src="Result/End to end decision confusion matrix.jpeg" width="400" alt="End-to-end decision confusion matrix">
-<img src="assets/end_to_end_safety_summary.png" width="480" alt="End-to-end safety and decision quality bar chart">
+<img src="Result/End to end safety and decision quality.jpeg" width="480" alt="End-to-end safety and decision quality bar chart">
 </p>
 
 The system is deliberately **conservative**: it would rather ask for more evidence or abstain (42% false-abstention rate on answerable questions) than risk an unsafe answer. That trade-off is explicit and tunable — see the [ablation study](#ablation-does-the-gate-actually-help) below.
