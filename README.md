@@ -147,7 +147,7 @@ Hybrid retrieval finds at least one gold document in the top-5 for ~95% of answe
 | Raw probabilities | 0.1824 | 0.0994 |
 | Isotonic-calibrated | 0.1822 | **0.0903** |
 
-<img src="assets/reliability_diagram.png" width="480" alt="Reliability diagram, raw vs isotonic-calibrated">
+<img src="Result/Reliability Diagram.jpeg" width="480" alt="Reliability diagram, raw vs isotonic-calibrated">
 
 Isotonic calibration tightens the reliability curve (~9% relative ECE improvement) without materially changing the Brier score — the model's *ranking* of confident vs. uncertain questions was already decent; calibration mainly fixes the mapping from score to probability.
 
