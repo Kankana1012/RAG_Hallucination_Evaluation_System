@@ -162,7 +162,7 @@ Isotonic calibration tightens the reliability curve (~9% relative ECE improvemen
 | Mean unsupported-claim rate | 0.147 |
 
 <p>
-<img src="assets/end_to_end_confusion_matrix.png" width="400" alt="End-to-end decision confusion matrix">
+<img src="Result/End to end decision confusion matrix.jpeg" width="400" alt="End-to-end decision confusion matrix">
 <img src="assets/end_to_end_safety_summary.png" width="480" alt="End-to-end safety and decision quality bar chart">
 </p>
 
