@@ -11,7 +11,7 @@
 </div>
 
 ---
-Most RAG demos only show off the happy path: a good question, good chunks, a fluent answer. This project asks the harder question — ***what should a RAG pipeline do when it can't answer well?***
+Most RAG demos only show off the happy path: a good question, good chunks, a fluent answer. This project asks the harder question — **what should a RAG pipeline do when it can't answer well?**
 
 - It builds a full pipeline that:
 
