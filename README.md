@@ -333,10 +333,10 @@ All key knobs live in **Cell 3** (Runtime Configuration):
 
 No license file is currently included. If you intend to publish or accept contributions, add a `LICENSE` file (MIT or Apache-2.0 are common choices for research code like this) before sharing the repository publicly.
 
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:F953C6,100:6C63FF&height=120&section=footer&text=⭐%20If%20this%20project%20helped%20you%2C%20consider%20starring%20the%20repo!&fontSize=16&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 </div>
+
+---
