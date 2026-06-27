@@ -172,7 +172,7 @@ The system is deliberately **conservative**: it would rather ask for more eviden
 
 Mean **BERTScore F1: 0.581** (precision 0.540 / recall 0.645), computed only on the subset of test questions that were genuinely answerable *and* that the system chose to answer.
 
-<img src="assets/bertscore_f1_distribution.png" width="480" alt="BERTScore F1 distribution">
+<img src="Result/BERTScore F1 Distribution.jpeg" width="480" alt="BERTScore F1 distribution">
 
 A useful (and humbling) diagnostic — **gate confidence is only weakly correlated with actual answer quality** (Pearson r = 0.220 between `prob_answerable` and BERTScore F1):
 
