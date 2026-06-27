@@ -191,7 +191,7 @@ Using FLAN-T5-large itself as a judge (A–E rubric → 1–5 score) across 4 di
 | Completeness | 3.59 |
 | **Overall** | 3.36 |
 
-<img src="assets/llm_judge_mean_scores.png" width="520" alt="LLM judge mean scores with 95% confidence intervals">
+<img src="Result/LLM judge mean scores.jpeg" width="520" alt="LLM judge mean scores with 95% confidence intervals">
 
 > Caveat: the judge is the *same model family* used for generation, not an independent stronger model — treat these as directional, not authoritative (more in [Limitations](#limitations--future-work)).
 
