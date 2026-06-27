@@ -222,7 +222,7 @@ Five gating policies were compared on the same 30-question test sample:
 | **No gate (always answer)** | 0.667 | **1.00** | 0.00 | 0.008 | **0.90** |
 
 <p>
-<img src="assets/ablation_success_metrics.png" width="400" alt="Ablation success metrics by policy variant">
+<img src="Result/Success metrics (Higher is better).jpeg" width="400" alt="Ablation success metrics by policy variant">
 <img src="assets/ablation_risk_metrics.png" width="480" alt="Ablation risk metrics by policy variant">
 </p>
 
